@@ -1,4 +1,4 @@
 
-Learning Go zoro to advance
+Learning Go basic to advance
 
 
