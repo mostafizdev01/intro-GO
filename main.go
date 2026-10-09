@@ -3,6 +3,7 @@ package main
 import "fmt" // this is already created package.
 
 func main() {
+	variable()
 	fmt.Println("Mostafiz is a learner!") /// PrintLn => new line
-	fmt.Print("Mostafiz is 22 years old.")
+	fmt.Println("Mostafiz is \n 22 years old.")
 }
